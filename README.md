@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+### ⚡ full stack developer in daily training ⚡
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-bayerl-hupp-2b39801b2//)](https://www.linkedin.com/in/diego-bayerl-hupp-2b39801b2/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegobayerl3@gmail.com)](mailto:diegobayerl3@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@bayerlhupp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/bayerlhupp)](https://twitter.com/bayerlhupp)
 
 <!--
 **diegobayerl/diegobayerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
