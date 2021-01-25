@@ -9,8 +9,7 @@
 
  🔭 I’m Diego Bayerl Hupp, I’m a junior developer, I do my code as a hobby because I love programming
  
-🚀 > Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up in the first attempts, persistence is a friend of conquest. If you want to get to where the majority doesn't, do what the majority don't
-
+🚀 > Try once, twice, three times and if possible try the fourth, fifth and as many times as necessary. Just don't give up in the first attempts, persistence is a friend of conquest. If you want to get to where the majority doesn't, do what most don't
 <!--
 **diegobayerl/diegobayerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
