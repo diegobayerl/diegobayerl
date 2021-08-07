@@ -7,7 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-@bayerlhupp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/bayerlhupp)](https://twitter.com/bayerlhupp)
 [![Instagram Badge](https://img.shields.io/badge/-intagran-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diego_bayerl/)](https://www.instagram.com/diego_bayerl/)
 
- 🔭 I’m Diego Bayerl Hupp, I’m a full stack developer, I make my code as a hobby because I love programming
+ 🔭 Hi I'm Diego
+    I'm a developer in constant training. But the important thing is that knowledge always adds up
  
 🚀 > Try it once, twice, three times and, if possible, try the fourth, fifth and as many times as necessary. Just don't give up on the first ones, persistence is a friend of conquest. If you want to get where the majority can't, do what the majority can't.
 
