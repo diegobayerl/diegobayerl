@@ -10,5 +10,5 @@
  🔭 Hi I'm Diego
     I'm a developer in constant training. But the important thing is that knowledge always adds up
  
-🚀 > Try it once, twice, three times and, if possible, try the fourth, fifth and as many times as necessary. Just don't give up on the first ones, persistence is a friend of conquest. If you want to get where the majority can't, do what the majority can't.
+🚀 > Try it once, twice, three times and if possible try the fourth, the fifth and as many times as necessary. Just don't give up on the first few attempts, persistence is a friend of conquest. If you want to get to where most people don't go, do the that most don't.
 
