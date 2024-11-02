@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-bayerl-hupp-2b39801b2//)](https://www.linkedin.com/in/diego-bayerl-hupp-2b39801b2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbayerlhupp@gmail.com)](mailto:dbayerlhupp@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@diego_hupp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/diego_hupp)](https://twitter.com/diego_hupp)
-[![Instagram Badge](https://img.shields.io/badge/-intagran-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diego_bayerl/)](https://www.instagram.com/diego_bayerl/)
+[![Instagram Badge](https://img.shields.io/badge/-intagran-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/diegobayerlhupp/)](https://www.instagram.com/diegobayerlhupp/)
 
  🔭 Hi I'm Diego
     I'm a developer and production engineer in constant training. But the important thing is that knowledge always adds
