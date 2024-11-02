@@ -11,4 +11,3 @@
     I'm a developer and production engineer in constant training. But the important thing is that knowledge always adds
  
 🚀 > Try it once, twice, three times and if possible try the fourth, the fifth and as many times as necessary. Just don't give up on the first few attempts, persistence is a friend of conquest. If you want to get to where most people don't go, do the that most don't.
-
